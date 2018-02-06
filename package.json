@@ -4,7 +4,7 @@
   "description": "",
   "main": ".eslintrc.js",
   "scripts": {
-    "test": "jest promiseAfterPromise.test.js"
+    "test": "jest importantRule.test.js"
   },
   "author": "",
   "license": "ISC",
